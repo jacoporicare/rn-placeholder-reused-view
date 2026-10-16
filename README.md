@@ -2,15 +2,15 @@
 
 ![Build](https://github.com/jacoporicare/rn-placeholder-reused-view/workflows/Pre%20Merge%20Checks/badge.svg)
 
-This is your new React Native Reproducer project.
+Reproducer for [react/react-native#59132](https://github.com/react/react-native/issues/59132): on iOS, a single-line `TextInput` draws its placeholder off-centre when Fabric reuses a multiline `TextInput`'s view. Steps are in `ReproducerApp/App.tsx` and in the issue.
 
 # Reproducer TODO list
 
 - [x] 1. Create a new reproducer project.
-- [ ] 2. Git clone your repository locally.
-- [ ] 3. Edit the project to reproduce the failure you're seeing.
-- [ ] 4. Push your changes, so that Github Actions can run the CI.
-- [ ] 5. Make sure the repository is public and share the link with the issue you reported.
+- [x] 2. Git clone your repository locally.
+- [x] 3. Edit the project to reproduce the failure you're seeing.
+- [x] 4. Push your changes, so that Github Actions can run the CI.
+- [x] 5. Make sure the repository is public and share the link with the issue you reported.
 
 # How to use this Reproducer
 
